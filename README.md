@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things.
 - 🌱 I’m currently learning Data Science.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : linkdin link in my profile
+- 📫 How to reach me : linkedln link in my profile
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can learn things fast.
 
