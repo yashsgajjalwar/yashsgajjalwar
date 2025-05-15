@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently Working On<br>>Customcart<br>🌱 Currently Learning<br>Deep Learning, AI, Etc<br>👯 Looking to Collaborate On<br>Machine Learning, Data Science, and Web Development Projects<br>💬 Ask Me About<br>Machine Learning, Deep Learning, Data Analysis, Data Visualization, Stock Market<br>📫 Contact Me<br>yashgajjalwar@gmail.com<br>⚡ Fun Fact<br>I have a knack for optimizing LLM prompts and improving accuracy in AI models.
+🔭 Currently Working On<br>><br>🌱 Currently Learning<br>Deep Learning, AI, Etc<br>👯 Looking to Collaborate On<br>Machine Learning, Data Science, and Web Development Projects<br>💬 Ask Me About<br>Machine Learning, Deep Learning, Data Analysis, Data Visualization, Stock Market<br>📫 Contact Me<br>yashgajjalwar@gmail.com<br>⚡ Fun Fact<br>I have a knack for optimizing LLM prompts and improving accuracy in AI models.
 
 
 ## 🌐 Socials:
